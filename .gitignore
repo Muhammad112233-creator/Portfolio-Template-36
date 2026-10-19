@@ -1,0 +1,23 @@
+# --- OS noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- editor folders ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- logs & temp ---
+*.log
+*.tmp
+*.bak
+~$*
+
+# --- optional: if you ever add a bundler later ---
+node_modules/
+dist/
+.cache/
+
+
